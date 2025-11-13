@@ -1,9 +1,9 @@
 
 # AdventureWorks - Bike Store Sales Analysis with Power BI (Personal Project)
 
-![Executive Dashboard](## Overview<img width="1805" height="973" alt="Screenshot 2025-11-13 223302" src="https://github.com/user-attachments/assets/14f49c77-9469-4e1f-aa33-2a9d7dc8899e" />)
+![Executive Dashboard](<img width="1805" height="973" alt="Screenshot 2025-11-13 223302" src="https://github.com/user-attachments/assets/14f49c77-9469-4e1f-aa33-2a9d7dc8899e" />)
 
-
+## Overview
 This repository contains a comprehensive sales analysis of a bike store using Power BI. The project includes a 3-page dashboard with insights into product trends, customer analysis, return analysis, and future sales predictions through time series analysis.
 
 ## Key Features
